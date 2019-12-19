@@ -1,1 +1,1 @@
-This folder contains the files for the presentation assignment, including the presentation slides and the code zip file.
+This folder contains the files for the presentation assignment including the presentation slides and the code zip file.
